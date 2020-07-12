@@ -7,4 +7,4 @@ The program find all the song inside and download all the songs one by one in hi
 
 ! This is old program that does not work anymore !
 1. Youtube changed the page html and this program use scraping so it needs update for the new youtube html layout.
-2. The source site mp3caln now charge money in order to download more than number of songs.
+2. The song source site mp3caln now charge money in order to download more than number of songs.
