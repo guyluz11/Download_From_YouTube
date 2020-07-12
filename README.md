@@ -1,7 +1,7 @@
 # Download_From_YouTube
 Program to download high quality of all the songs inside youtube video
 
-This program get url of long youtube video with lots of songs inside like album or mix, then it download all the songs inside in high quality one by one.
+This program get url of long youtube video with lots of songs inside like album or mix, then it download all the songs inside one by one in high quality.
 
 Download sorce site: http://mp3clan.top/
 
